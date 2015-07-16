@@ -45,4 +45,6 @@ dlldata.c
 
 # IDE stuff:
 Debug/
-*.suo
+/*.opensdf
+/*.sdf
+/*.suo
